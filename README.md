@@ -90,7 +90,7 @@ Fragmento do Frame 2432 (Full Request URI): `GET /?usuario=959-320-321-12&senha=
 | **CPF/Matrícula** | `959-320-321-12` |
 | **Senha** | `senha123` |
 
-* **Arquivo pcap entregue:** O arquivo de prova está disponível em `pcaps/captura_login_portal.pcap`.
+* **Arquivo pcap entregue:** .
 
 ***
 
@@ -116,7 +116,7 @@ Para mitigar o risco demonstrado por este ataque, recomenda-se:
 * **Disciplina:** Redes de Computadores II
 * **Instituição:** UEMG - Sistemas de Informação
 * **Ano:** 2025
-* **Branch Principal:** `[Nome da Branch]` (geralmente `main` ou `master`)
+* **Branch Principal:** `main`
 
 **Autores:**
 * Heitor Barreto Campos dos Santos
