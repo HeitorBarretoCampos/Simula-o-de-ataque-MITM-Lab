@@ -1,4 +1,4 @@
-# SIMULAÇÃO-de-atauque-MITM-Lab: Exploração de Redes Vulneráveis
+# SIMULAÇÃO-de-ataque-MITM-Lab: Exploração de Redes Vulneráveis
 
 ## 📑 Resumo do Projeto
 
